@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+[![Build Status](https://travis-ci.org/LiLinen/decor-example.svg?branch=master)](https://travis-ci.org/LiLinen/decor-example)
+
 Tic Tac Toe game made with React & other goodies.
 
 Link: [tictactoe.linartas.lt]([tictactoe.linartas.lt])
