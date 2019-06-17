@@ -1,6 +1,8 @@
 # Tic Tac Toe
 
-Tic Tac Toe game made with Redux & other goodies.
+Tic Tac Toe game made with React & other goodies.
+
+Link: [tictactoe.linartas.lt]([tictactoe.linartas.lt])
 
 Used libraries:
 * UI: [React](https://reactjs.org/)
@@ -10,13 +12,17 @@ Used libraries:
 
 ## Setup
 
-Development
+Development setup
 ```bash
 yarn start
 ```
 
-Production
+Production setup
 ```bash
 yarn build
 ```
 
+Style linting:
+```bash
+yarn lint
+```
