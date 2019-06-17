@@ -4,7 +4,7 @@
 
 Tic Tac Toe game made with React & other goodies.
 
-Link: [tictactoe.linartas.lt]([tictactoe.linartas.lt])
+Link: [tictactoe.linartas.lt]([http://tictactoe.linartas.lt])
 
 Used libraries:
 * UI: [React](https://reactjs.org/)
