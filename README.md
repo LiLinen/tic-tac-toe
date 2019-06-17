@@ -6,7 +6,8 @@ Tic Tac Toe game made with React & other goodies.
 
 Link: [tictactoe.linartas.lt]([http://tictactoe.linartas.lt])
 
-Used libraries:
+Used technologies / libraries:
+* Language: [TypeScript](https://www.typescriptlang.org/)
 * UI: [React](https://reactjs.org/)
 * State Management: [Redux](https://redux.js.org)
 * Design Components: [Material-UI](https://material-ui.com/)
